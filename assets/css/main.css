@@ -24,7 +24,7 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font-family: "Noto Sans", sans-serif;
 	font-optical-sizing: auto;
-  font-weight: 1;
+  font-weight: 2;
   font-style: light;
   font-variation-settings:
     "wdth" 100;
@@ -90,7 +90,7 @@ input, select, textarea {
 	@media screen and (max-width: 480px) {
 
 		html, body {
-			min-width: 320px;
+			min-width: 500px;
 		}
 
 	}
